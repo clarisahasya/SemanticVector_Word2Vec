@@ -1,0 +1,23 @@
+"Google meluncurkan aplikasi baru untuk manajemen data, Datally. Peranti lunak tersebut dibuat untuk me-manage penggunaan data atau kuota pada smartphone.
+
+""Aplikasi ini kita buat dengan maksud agar pengguna ponsel pintar dapat mengerti penggunaan data mereka,"" jelas Vice President Tim Next Billion Users Google, Caesar Sengupta saat peluncuran Datally di Sentral Senayan, Jakarta, Kamis (30/11)
+
+Hebatnya lagi, Indonesia menjadi tempat peluncuran aplikasi tersebut sekaligus negara pertama yang dapat men-download Datally sebelum seluruh dunia dapat menggunakannya. ""Indonesia sangat spesial, sebab kami memilih Indonesia sebagai tempat peluncuran Datally ini,"" tutur Caesar.
+
+Google membuat aplikasi ini setelah melakukan studi di Indonesia dan negara-negara berkembang lainnya selama 2 tahun terakhir. Ide awal pembuatan Datally muncul lantaran masyarakat seluruh dunia sering kali terkendala kuota untuk mengakses internet. Belum lagi mereka terkadang sangat menghemat penggunaan data untuk berinternet.
+
+""Mereka juga biasanya sangat peduli dengan jumlah data yang mereka gunakan,"" kata Caesar.
+
+Sementara itu, lanjut Caesar, sebagian pengguna kesulitan untuk mengendalikan data yang mereka gunakan. Begitu pun penghitungan penggunaan mobile data bisa sangat membingungkan. Ditambah lagi harga paket data juga tidak murah. ""Karena itu, mereka harus menyesuaikan penggunaan data mereka,"" jelasnya.
+
+Nah, salah satu fitur yang ada pada Datally adalah fitur penghemat data. Hal ini bisa untuk mengantisipasi karena sebagian aplikasi menggunakan data di-background tanpa sepengetahuan pengguna. ""Hal inilah yang sering tidak disadari pengguna. Mereka membeli data tak lama kemudian habis tidak jelas untuk apa,"" kata Caesar.
+
+Melalui Datally, pengguna bisa mengatur aplikasi mana saja yang mereka kehendaki untuk dapat menggunakan data. Selain itu pengguna bisa memantau berapa banyak data, untuk apa, dan ke mana saja data itu dialokasikan. ""Baik penggunaan harian, mingguan, atau bulanan,"" jelas Caesar.
+
+Ketika membuka aplikasi Datally, pengguna akan melihat sebuah balon/bubble yang menunjukkan jumlah data yang digunakan oleh pengguna ketika mengakses aplikasi tersebut.
+
+Pengguna juga bisa melihat berapa besar data yang digunakan oleh aplikasi-aplikasi tertentu. Dengan begitu, pengguna diharapkan bisa mengetahui aplikasi apa yang menghabiskan paket data mereka.
+
+Google mengklaim bahwa dengan menggunakan Datally dapat menghemat penggunaan data hingga 30 persen. Datally hanya dapat digunakan smartphone Android dan saat ini sudah bisa di-download di Play Store.
+
+""Aplikasi ini bisa digunakan oleh pengguna smartphone Android lama dan kompatible dengan yang masih memiliki Android lolipop,"" pungkas Caesar."

@@ -1,0 +1,27 @@
+"Beroperasinya moda Mass Rapid Transport (MRT) di Jakarta rupanya masih menuai sedikit kendala. Yakni, sulitnya sarana telekomunikasi di rute MRT. Khususnya di jalur bawah tanah. Hal ini disebabkan masih banyak operator yang enggan untuk memasang jaringannya di jalur bawah tanah MRT.
+
+Direktur Eksekutif The Institute for Development of Economics and Finance (INDEF) Enny Sri Hartati menilai bahwa proyek MRT merupakan program strategis nasional dan pioneer di bidang transportasi masal moderen. Harusnya perusahaan telekomunikasi mau berkontribusi di program pemerintah tersebut dengan membangun jaringan telekomunikasi di sepanjang jalur MRT.
+
+“Pemerintah tentunya membutuhkan kontribusi serta dukungan semua pihak termasuk perusahaan telekomunikasi. Seharusnya perusahaan telekomunikasi mau membangun jaringan telekomunikasi di MRT. Tujuannya agar masyarakat mendapatkan kenyamanan dalam berkomunikasi dan tertarik untuk menggunakan layanan umum seperti MRT,” ujar Enny dalam keterangan tertulisnya kepada JawaPos.com, Kamis (28/3).
+
+Jika operator enggan masuk jalur MRT karena biaya instalasi jaringan yang tinggi, menurut Enny, PT MRT Indonesia dan Tower Bersama seharusnya dapat transparan kepada publik soal biaya yang dikenakan setiap operator. Semakin banyak operator yang tertarik membangun jaringan sepanjang jalur MRT, komponen biaya yang ditanggung oleh masing-masing operator harusnya akan berkurang. Sebab, biaya pembangunan jaringan telekomunikasi di MRT ditanggung bersama seluruh operator.
+
+“Jika memang harga sudah transparan disampaikan oleh PT MRT dan Tower Bersama namun masih ada operator yang tak sanggup membayar, maka operator tersebut tak boleh komplain. Apa lagi menuduh jika ada monopoli oleh salah satu operator. Selain itu pelanggan yang tak mendapatkan layanan telekomunikasi di MRT juga tidak boleh komplain ke pemerintah, tetapi komplain ke operator mereka yang tak mau investasi di jalur MRT,” terang Enny.
+
+Enny mencontohkan, beberapa tahun yang lalu ada operator yang tak mau membangun di daerah. Mereka tak mau membangun lantaran daerah tersebut tak menguntungkan. Operator itu hanya mengejar pembangunan di daerah yang menguntungkan saja. Namun setelah daerah tersebut berkembang dan menguntungkan dari segi bisnis, operator yang tadinya engan untuk membangun justru kini getol meminta sharing.
+
+“Kelakuan ini sangat aneh. Mereka engan untuk sharing investasi ketika awal-awal pembangunan. Namun kini setelah daerah tersebut tumbuh mereka meminta sharing. Itu tidak adil,” tegas Enny.
+
+Dia mengakui bahwa operator sebagai badan usaha memang selalu berfikir benefit dan cost. Berbeda dengan Telkom dan Telkomsel yang diminta selalu hadir untuk mewakili negara. Mereka harus terus berinvestasi meski dalam jangka pendek belum menguntungkan. Sedangkan operator lain hanya investasi di daerah yang menguntungkan saja.
+
+“Perbedaan ini membuat Telkom dan Telkomsel tidak bisa melakukan perang tarif. Namun operator lain tidak demikian. Dengan enggannya mereka investasi di tempat yang tidak menguntungkan, opportunity operator lain untuk menggunakan tools perang tarif akan semakin besar. Daripada mereka investasi, mending dipakai untuk akusisi pelanggan dengan perang tarif. Ini sangat tidak fair,” papar Enny.
+
+Dia menilai kompetisi tersebut sebenarnya bagus. Sebab akan menguntungkan konsumen dan mendorong efisiensi serta optimalisasi. Namun perang tarif yang saat ini terjadi di industri telekomunikasi nasional dinilai sudah kebablasan. Karena sudah menimbulkan ketidakadilan yang bisa menimbulkan kerugian yang besar bagi masyarakat dan negara.
+
+Enny pun mengimbau agar Kementerian Komunikasi dan Informatika segera ‘menjinakkan’ perang tarif di industri telekomunikasi. Sehingga operator telekomunkasi memiliki kemampuan untuk mendukung program strategis nasional. “Kita harus menjaga keseimbangan antara dunia usaha, masyarakat, dan kepentingan nasional,” pungkasnya.
+
+Seperti diketahui, MRT Jakarta telah diresmikan Presiden Joko Widodo pada Minggu (24/3) lalu. Hingga Rabu (27/3) baru ada sinyal Telkomsel dan Smartfren yang bisa dinikmati sepanjang 13 stasiun oleh para penumpang moda transportasi itu.
+
+Telkomsel adalah pemasang layanan pertama di MRT Jakarta dengan memasang 48 BTS di 13 stasiun. Smartfren baru mendapatkan kesepakatan untuk memasang dan menghidupkan perangkat di MRT Jakarta pada Rabu (27/3). Sementara operator lainnya seperti XL Axiata, Indosat Ooredoo, dan 3 (Tri) belum diketahui kapan jaringann akan hadir di rute MRT.
+
+MRT Jakarta sendiri bersama mitranya telah menyediakan antena In buiilding Solution (IBS) di 408 titik pada 13 lokasi yang dilalui moda tersebut sepanjang 15,6 Km. Ada juga antena repeater sepanjang rel (24,9 km), ruang BTS (8), dan backhaul ke fiber optik masing-masing calon penyewa. Kapasitas yang disediakan meliputi 74 sektor."

@@ -1,0 +1,5 @@
+1. Pastikan folder berisi 100 file artikel, dan file .py sudah dalam satu folder
+
+2. Kemudian run file .py dengan terminal. " python tugas_pekan_4_nlp_word2vec.py "
+
+3. Lalu akan ditampilkan repesentasi vektor/embedding sebuah kata, nilai similarity antara kata, top 5 similarity sebuah kata, visualisasi embedding dari model 1 (min_count=1) dan model 2 (min_count=5)
