@@ -1,0 +1,13 @@
+"Sengitnya persaingan membuat pengembang teknologi memutar otak. Tak terkecuali antara Google dengan Apple yang bersaing sengit pada sektor asisten virtual cerdas yang hadir pada masing-masing perangkat gadget besutannya.
+
+Google memiliki Google Assistant, sedangkan Apple dengan Siri. Namun Siri yang dimiliki Apple dinilai kalah cerdas jika dibandingkan dengan Google Assistant dan Amazon milik Alexa. Bahkan ada pihak yang menyebut bahwa Siri dan eksistensinya turut pergi bersama mendiang Steve Jobs. Bahkan pengembangannya disebut belum mampu bersaing dengan musuh bebuyutannya, yakni Google Assistant.
+
+Seperti JawaPos.com lansir dari laman BGRIndia, Selasa (3/4), Apple membuka lowongan engineer untuk berkontribusi dalam pengembangan Siri ke depannya. Tidak tanggung-tanggung, ratusan lowongan pekerjaan dibuka demi membuat asisten virtual Siri lebih cerdas dan mampu bersaing dengan rivalnya.
+
+Sebuah laporan menyebutkan bahwa setidaknya ada 161 lowongan pekerjaan terkait dengan Siri yang di-publish pada 30 Maret 2018 beberapa hari lalu. Bahkan dalam satu bulan, daftar tersebut meningkat 24 persen, sedangkan per tahun jumlah peningkatan lowongan untuk engineer Siri hingga sebesar 96 persen.
+
+Alokasi sumber daya manusia (SDM) yang dicari pabrikan teknologi asal Cupertino, California, Amerika Serikat (AS) itu nantinya akan memiliki rincian 161 SDM akan dialokasikan ke 154 orang di antaranya menduduki peran sebagai software engineer. Sementara lima lowongan di antara dengan posisi ‘Siri - Software Engineer’, kemudian tiga sisanya akan memegang peran pekerjaan bernama ‘Siri - iOS Engineer’.
+
+Siri yang dinilai ‘tak seberapa cerdas’ itu disebut memiliki kesulitan dalam menyampaikan informasi kepada pengguna. Sementara sebuah penelitian menyebut bahwa Google Assistant telah mengungguli Alexa, Cortana, dan Siri terkait penanganan pada lima kategori Lokal, Navigasi, Perdagangan, Informasi, dan Perintah.
+
+Tak ayal, Siri pun berada di posisi paling bontot dalam merespons perintah penggunanya. Karena itulah, Apple melihat bahwa Siri perlu diprogram ulang guna meningkatkan jumlah perintah yang mampu dilaksanakannya. Apple juga berencana meningkatkan kemampuan asisten virtual tersebut agar lebih konversasional hingga nantinya mampu bersaing dengan Google Assistant maupun Alexa."
